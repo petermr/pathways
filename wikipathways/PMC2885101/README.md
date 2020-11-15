@@ -2,7 +2,7 @@
 
 ## image
 
-<img src="../PMC2885101/pdfimages/image.6.1.91_505.177_737/raw.png"
+<img src="../PMC2885101/pdfimages/image.6.1.91_505.177_737/raw.png"/>
 
 ## pathway value
 medium

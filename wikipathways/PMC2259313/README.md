@@ -6,7 +6,7 @@
 
 
 ## pathway value
-high
+medium
 
 
 ## semantic feasibility 
@@ -17,4 +17,10 @@ high
 low: antialiasing, small fonts, colours badly grey, small blurred
 
 ## score/10
-6
+4
+
+## ionteresting channels
+
+### 5fd063
+green annotation (numbers) badly antialiased
+<img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/octree/channel.5fd063.png"/>
