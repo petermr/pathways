@@ -1,0 +1,601 @@
+{
+  "id": [
+    "29522475"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29522475"
+  ],
+  "pmcid": [
+    "PMC5869511"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC5869511"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/v10030118"
+  ],
+  "title": [
+    "Natural Variation in Resistance to Virus Infection in Dipteran Insects."
+  ],
+  "authorString": [
+    "Palmer WH, Varghese FS, van Rij RP."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Palmer WH"
+          ],
+          "firstName": [
+            "William H"
+          ],
+          "lastName": [
+            "Palmer"
+          ],
+          "initials": [
+            "WH"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Institute of Evolutionary Biology and Centre for Infection, Evolution and Immunity, University of Edinburgh, Edinburgh EH9 3FL UK. W.H.Palmer@sms.ed.ac.uk."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Varghese FS"
+          ],
+          "firstName": [
+            "Finny S"
+          ],
+          "lastName": [
+            "Varghese"
+          ],
+          "initials": [
+            "FS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Microbiology, Radboud University Medical Center, Radboud Institute for Molecular Life Sciences, P.O. Box 9101, Nijmegen 6500 HB, The Netherlands. Finny.Varghese@radboudumc.nl."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Radboud Center for Infectious Diseases, Radboud University Medical Center, Nijmegen 6525 GA, The Netherlands. Finny.Varghese@radboudumc.nl."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "van Rij RP"
+          ],
+          "firstName": [
+            "Ronald P"
+          ],
+          "lastName": [
+            "van Rij"
+          ],
+          "initials": [
+            "RP"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-0221-4689",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Medical Microbiology, Radboud University Medical Center, Radboud Institute for Molecular Life Sciences, P.O. Box 9101, Nijmegen 6500 HB, The Netherlands. ronald.vanrij@radboudumc.nl."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Radboud Center for Infectious Diseases, Radboud University Medical Center, Nijmegen 6525 GA, The Netherlands. ronald.vanrij@radboudumc.nl."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-0221-4689",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "3"
+      ],
+      "volume": [
+        "10"
+      ],
+      "journalIssueId": [
+        "2656065"
+      ],
+      "dateOfPublication": [
+        "2018 Mar"
+      ],
+      "monthOfPublication": [
+        "3"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-03-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Viruses"
+          ],
+          "ISOAbbreviation": [
+            "Viruses"
+          ],
+          "medlineAbbreviation": [
+            "Viruses"
+          ],
+          "NLMid": [
+            "101509722"
+          ],
+          "ISSN": [
+            "1999-4915"
+          ],
+          "ESSN": [
+            "1999-4915"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "The power and ease of Drosophila genetics and the medical relevance of mosquito-transmitted viruses have made dipterans important model organisms in antiviral immunology. Studies of virus-host interactions at the molecular and population levels have illuminated determinants of resistance to virus infection. Here, we review the sources and nature of variation in antiviral immunity and virus susceptibility in model dipteran insects, specifically the fruit fly Drosophila melanogaster and vector mosquitoes of the genera Aedes and Culex. We first discuss antiviral immune mechanisms and describe the virus-specificity of these responses. In the following sections, we review genetic and microbiota-dependent variation in antiviral immunity. In the final sections, we explore less well-studied sources of variation, including abiotic factors, sexual dimorphism, infection history, and endogenous viral elements. We borrow from work on other pathogen types and non-dipteran species when it parallels or complements studies in dipterans. Understanding natural variation in virus-host interactions may lead to the identification of novel restriction factors and immune mechanisms and shed light on the molecular determinants of vector competence."
+  ],
+  "affiliation": [
+    "Institute of Evolutionary Biology and Centre for Infection, Evolution and Immunity, University of Edinburgh, Edinburgh EH9 3FL UK. W.H.Palmer@sms.ed.ac.uk."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "615680"
+          ],
+          "agency": [
+            "European Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Drosophila melanogaster"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Virus Diseases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PC"
+                  ],
+                  "qualifierName": [
+                    "prevention & control"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Environment"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Sex Factors"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Host-Pathogen Interactions"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Immunity, Innate"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Genetic Variation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mosquito Vectors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "IM"
+                  ],
+                  "qualifierName": [
+                    "immunology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "MI"
+                  ],
+                  "qualifierName": [
+                    "microbiology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "VI"
+                  ],
+                  "qualifierName": [
+                    "virology"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Drosophila melanogaster",
+        "Aedes aegypti",
+        "Microbiota",
+        "RNAi",
+        "JAK-STAT",
+        "Toll",
+        "Imd",
+        "Antiviral Defense",
+        "Vector Mosquitoes",
+        "Endogenous Viral Elements"
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/v10030118"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5869511"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5869511?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "10"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2018-10-02"
+  ],
+  "dateOfCreation": [
+    "2018-03-10"
+  ],
+  "firstIndexDate": [
+    "2018-03-10"
+  ],
+  "fullTextReceivedDate": [
+    "2018-04-09"
+  ],
+  "dateOfRevision": [
+    "2018-10-04"
+  ],
+  "electronicPublicationDate": [
+    "2018-03-09"
+  ],
+  "firstPublicationDate": [
+    "2018-03-09"
+  ]
+}

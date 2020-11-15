@@ -1,0 +1,520 @@
+{
+  "id": [
+    "18154660"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "18154660"
+  ],
+  "pmcid": [
+    "PMC2259313"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC2259313"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/1742-4682-4-50"
+  ],
+  "title": [
+    "Simulating non-small cell lung cancer with a multiscale agent-based model."
+  ],
+  "authorString": [
+    "Wang Z, Zhang L, Sagotsky J, Deisboeck TS."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Wang Z"
+          ],
+          "firstName": [
+            "Zhihui"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "Z"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Complex Biosystems Modeling Laboratory, Harvard-MIT (HST) Athinoula A, Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA 02129, USA. billwang@nmr.mgh.harvard.edu"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Le"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ]
+        },
+        {
+          "fullName": [
+            "Sagotsky J"
+          ],
+          "firstName": [
+            "Jonathan"
+          ],
+          "lastName": [
+            "Sagotsky"
+          ],
+          "initials": [
+            "J"
+          ]
+        },
+        {
+          "fullName": [
+            "Deisboeck TS"
+          ],
+          "firstName": [
+            "Thomas S"
+          ],
+          "lastName": [
+            "Deisboeck"
+          ],
+          "initials": [
+            "TS"
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "4"
+      ],
+      "journalIssueId": [
+        "2465929"
+      ],
+      "dateOfPublication": [
+        "2007 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2007"
+      ],
+      "printPublicationDate": [
+        "2007-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Theoretical biology & medical modelling"
+          ],
+          "ISOAbbreviation": [
+            "Theor Biol Med Model"
+          ],
+          "medlineAbbreviation": [
+            "Theor Biol Med Model"
+          ],
+          "NLMid": [
+            "101224383"
+          ],
+          "ISSN": [
+            "1742-4682"
+          ],
+          "ESSN": [
+            "1742-4682"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2007"
+  ],
+  "pageInfo": [
+    "50"
+  ],
+  "abstractText": [
+    "The epidermal growth factor receptor (EGFR) is frequently overexpressed in many cancers, including non-small cell lung cancer (NSCLC). In silico modeling is considered to be an increasingly promising tool to add useful insights into the dynamics of the EGFR signal transduction pathway. However, most of the previous modeling work focused on the molecular or the cellular level only, neglecting the crucial feedback between these scales as well as the interaction with the heterogeneous biochemical microenvironment.We developed a multiscale model for investigating expansion dynamics of NSCLC within a two-dimensional in silico microenvironment. At the molecular level, a specific EGFR-ERK intracellular signal transduction pathway was implemented. Dynamical alterations of these molecules were used to trigger phenotypic changes at the cellular level. Examining the relationship between extrinsic ligand concentrations, intrinsic molecular profiles and microscopic patterns, the results confirmed that increasing the amount of available growth factor leads to a spatially more aggressive cancer system. Moreover, for the cell closest to nutrient abundance, a phase-transition emerges where a minimal increase in extrinsic ligand abolishes the proliferative phenotype altogether.Our in silico results indicate that in NSCLC, in the presence of a strong extrinsic chemotactic stimulus (and depending on the cell's location) downstream EGFR-ERK signaling may be processed more efficiently, thereby yielding a migration-dominant cell phenotype and overall, an accelerated spatio-temporal expansion rate."
+  ],
+  "affiliation": [
+    "Complex Biosystems Modeling Laboratory, Harvard-MIT (HST) Athinoula A, Martinos Center for Biomedical Imaging, Massachusetts General Hospital, Charlestown, MA 02129, USA. billwang@nmr.mgh.harvard.edu"
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article",
+        "Research Support, N.I.H., Extramural"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "CA 113004"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "U56 CA113004"
+          ],
+          "agency": [
+            "NCI NIH HHS"
+          ],
+          "acronym": [
+            "CA"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Carcinoma, Non-Small-Cell Lung"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Epidermal Growth Factor"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Extracellular Signal-Regulated MAP Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Gene Expression Regulation, Neoplastic"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Kinetics"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Algorithms"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Models, Biological"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "Computer Simulation"
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "Epidermal Growth Factor"
+          ],
+          "registryNumber": [
+            "62229-50-9"
+          ]
+        },
+        {
+          "name": [
+            "Extracellular Signal-Regulated MAP Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.24"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/1742-4682-4-50"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2259313"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC2259313?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "43"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2008-03-24"
+  ],
+  "dateOfCreation": [
+    "2008-03-03"
+  ],
+  "firstIndexDate": [
+    "2009-12-24"
+  ],
+  "fullTextReceivedDate": [
+    "2009-05-01"
+  ],
+  "dateOfRevision": [
+    "2016-10-19"
+  ],
+  "electronicPublicationDate": [
+    "2007-12-21"
+  ],
+  "firstPublicationDate": [
+    "2007-12-21"
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "id": [
+    "27881951"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "27881951"
+  ],
+  "pmcid": [
+    "PMC5101203"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC5101203"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3389/fnmol.2016.00118"
+  ],
+  "title": [
+    "Neuronal Gene Targets of NF-κB and Their Dysregulation in Alzheimer's Disease."
+  ],
+  "authorString": [
+    "Snow WM, Albensi BC."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Snow WM"
+          ],
+          "firstName": [
+            "Wanda M"
+          ],
+          "lastName": [
+            "Snow"
+          ],
+          "initials": [
+            "WM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Neurodegenerative Disorders, St. Boniface Hospital ResearchWinnipeg, MB, Canada; Department of Pharmacology and Therapeutics, University of ManitobaWinnipeg, MB, Canada."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Albensi BC"
+          ],
+          "firstName": [
+            "Benedict C"
+          ],
+          "lastName": [
+            "Albensi"
+          ],
+          "initials": [
+            "BC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Neurodegenerative Disorders, St. Boniface Hospital ResearchWinnipeg, MB, Canada; Department of Pharmacology and Therapeutics, University of ManitobaWinnipeg, MB, Canada."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2378228"
+      ],
+      "dateOfPublication": [
+        "2016 "
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2016"
+      ],
+      "printPublicationDate": [
+        "2016-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in molecular neuroscience"
+          ],
+          "medlineAbbreviation": [
+            "Front Mol Neurosci"
+          ],
+          "NLMid": [
+            "101477914"
+          ],
+          "ISSN": [
+            "1662-5099"
+          ],
+          "ESSN": [
+            "1662-5099"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2016"
+  ],
+  "pageInfo": [
+    "118"
+  ],
+  "abstractText": [
+    "Although, better known for its role in inflammation, the transcription factor nuclear factor kappa B (NF-κB) has more recently been implicated in synaptic plasticity, learning, and memory. This has been, in part, to the discovery of its localization not just in glia, cells that are integral to mediating the inflammatory process in the brain, but also neurons. Several effectors of neuronal NF-κB have been identified, including calcium, inflammatory cytokines (i.e., tumor necrosis factor alpha), and the induction of experimental paradigms thought to reflect learning and memory at the cellular level (i.e., long-term potentiation). NF-κB is also activated after learning and memory formation in vivo. In turn, activation of NF-κB can elicit either suppression or activation of other genes. Studies are only beginning to elucidate the multitude of neuronal gene targets of NF-κB in the normal brain, but research to date has confirmed targets involved in a wide array of cellular processes, including cell signaling and growth, neurotransmission, redox signaling, and gene regulation. Further, several lines of research confirm dysregulation of NF-κB in Alzheimer's disease (AD), a disorder characterized clinically by a profound deficit in the ability to form new memories. AD-related neuropathology includes the characteristic amyloid beta plaque formation and neurofibrillary tangles. Although, such neuropathological findings have been hypothesized to contribute to memory deficits in AD, research has identified perturbations at the cellular and synaptic level that occur even prior to more gross pathologies, including transcriptional dysregulation. Indeed, synaptic disturbances appear to be a significant correlate of cognitive deficits in AD. Given the more recently identified role for NF-κB in memory and synaptic transmission in the normal brain, the expansive network of gene targets of NF-κB, and its dysregulation in AD, a thorough understanding of NF-κB-related signaling in AD is warranted and may have important implications for uncovering treatments for the disease. This review aims to provide a comprehensive view of our current understanding of the gene targets of this transcription factor in neurons in the intact brain and provide an overview of studies investigating NF-κB signaling, including its downstream targets, in the AD brain as a means of uncovering the basic physiological mechanisms by which memory becomes fragile in the disease."
+  ],
+  "affiliation": [
+    "Division of Neurodegenerative Disorders, St. Boniface Hospital ResearchWinnipeg, MB, Canada; Department of Pharmacology and Therapeutics, University of ManitobaWinnipeg, MB, Canada."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Memory",
+        "Alzheimer's disease",
+        "Nuclear factor kappa B",
+        "Mouse Models",
+        "Neuronal Gene Target"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnmol.2016.00118"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5101203"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5101203?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "18"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2016-11-25"
+  ],
+  "firstIndexDate": [
+    "2016-11-25"
+  ],
+  "fullTextReceivedDate": [
+    "2016-12-09"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2016-11-09"
+  ],
+  "firstPublicationDate": [
+    "2016-11-09"
+  ]
+}

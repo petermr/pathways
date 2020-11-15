@@ -1,0 +1,544 @@
+{
+  "id": [
+    "30323894"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30323894"
+  ],
+  "pmcid": [
+    "PMC6173361"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC6173361"
+      ]
+    }
+  ],
+  "doi": [
+    "10.18632/oncotarget.26063"
+  ],
+  "title": [
+    "Comparative proteomic analysis of cat eye syndrome critical region protein 1- function in tumor-associated macrophages and immune response regulation of glial tumors."
+  ],
+  "authorString": [
+    "Zhu C, Mustafa DAM, Krebber MM, Chrifi I, Leenen PJM, Duncker DJ, Dekker L, Luider TM, Kros JM, Cheng C."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Zhu C"
+          ],
+          "firstName": [
+            "Changbin"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Paediatric Neurosurgery, Shanghai Xin Hua Hospital/Shanghai Jiao Tong University School of Medicine, Shanghai, PR China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mustafa DAM"
+          ],
+          "firstName": [
+            "Dana A M"
+          ],
+          "lastName": [
+            "Mustafa"
+          ],
+          "initials": [
+            "DAM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Krebber MM"
+          ],
+          "firstName": [
+            "Merle M"
+          ],
+          "lastName": [
+            "Krebber"
+          ],
+          "initials": [
+            "MM"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-9856-6907",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Nephrology and Hypertension, DIGD, University Medical Center Utrecht, Utrecht, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chrifi I"
+          ],
+          "firstName": [
+            "Ihsan"
+          ],
+          "lastName": [
+            "Chrifi"
+          ],
+          "initials": [
+            "I"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Experimental Cardiology, Department of Cardiology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Leenen PJM"
+          ],
+          "firstName": [
+            "Pieter J M"
+          ],
+          "lastName": [
+            "Leenen"
+          ],
+          "initials": [
+            "PJM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Immunology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Duncker DJ"
+          ],
+          "firstName": [
+            "Dirk J"
+          ],
+          "lastName": [
+            "Duncker"
+          ],
+          "initials": [
+            "DJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Experimental Cardiology, Department of Cardiology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Dekker L"
+          ],
+          "firstName": [
+            "Lennard"
+          ],
+          "lastName": [
+            "Dekker"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Neurology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Luider TM"
+          ],
+          "firstName": [
+            "Theo M"
+          ],
+          "lastName": [
+            "Luider"
+          ],
+          "initials": [
+            "TM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Neurology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kros JM"
+          ],
+          "firstName": [
+            "Johan M"
+          ],
+          "lastName": [
+            "Kros"
+          ],
+          "initials": [
+            "JM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng C"
+          ],
+          "firstName": [
+            "Caroline"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Experimental Cardiology, Department of Cardiology, Erasmus Medical Center, Rotterdam, The Netherlands."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Nephrology and Hypertension, DIGD, University Medical Center Utrecht, Utrecht, The Netherlands."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0001-9856-6907",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "71"
+      ],
+      "volume": [
+        "9"
+      ],
+      "journalIssueId": [
+        "2739587"
+      ],
+      "dateOfPublication": [
+        "2018 Sep"
+      ],
+      "monthOfPublication": [
+        "9"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-09-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Oncotarget"
+          ],
+          "ISOAbbreviation": [
+            "Oncotarget"
+          ],
+          "medlineAbbreviation": [
+            "Oncotarget"
+          ],
+          "NLMid": [
+            "101532965"
+          ],
+          "ISSN": [
+            "1949-2553"
+          ],
+          "ESSN": [
+            "1949-2553"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "33500-33514"
+  ],
+  "abstractText": [
+    "Introduction:Tumor associated macrophages (TAMs) promote tumor development, angiogenesis and distal metastasis. In previous studies, we showed that Cat Eye Syndrome Critical Region Protein 1 (CECR1) is expressed by M2-like TAMs in human glioma samples. CECR1 promoted M2 TAMs differentiation and affected glioma cell proliferation and migration. Here we investigated the proteomic profile of TAMs expressing CECR1 in absence or presence of glioma cells. Results:CECR1 siRNA transfection upregulated 67 proteins in THP-1-derived Macrophages (MQs). Pathway annotation mapped this set to 3 major pathways relevant for MQ function, including 'MHC-I antigen presentation', 'phagosome maturation' and 'endocytosis'. Co-culture of siCECR1 THP-1-derived MQs with U87 glioma cells attenuated the changes observed on protein and mRNA level in response to MQ CECR1 silencing. SiCECR1 in U87 co-cultured MQs was associated with an IL-10low, IL-12high M1-like phenotype. In U87 co-culture conditions, SiCECR1 also downregulated S20 proteasome complex proteins PSMA5, PSMA7, PSMC6 and PSMD8. This protein profile was linked to a low proliferation rate of siCECR1 MQs. Overlap analysis identified S100A9 and PLAU as CECR1-related proteins that were significantly correlated with expression of CECR1 and macrophage lineage markers in three large public GBM datasets. Conclusion:This study reports the molecular pathways and key molecules that are mediated by CECR1 function in THP- 1-derived MQs and TAMs in glioma. Methods:PMA-treated THP-1 cells (MQs) were siRNA transfected for CECR1 in vitro, with or without stimulation of the primary glioma cell line U87. Lysates were analyzed by (nano)LC-MS. Significant altered protein levels were identified (P < 0.05), followed by pathway annotation."
+  ],
+  "affiliation": [
+    "Department of Pathology, Erasmus Medical Center, Rotterdam, The Netherlands."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Immune response",
+        "Proteomics",
+        "Glioma",
+        "Tumor Associated Macrophages",
+        "Cecr1"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.18632/oncotarget.26063"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6173361"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6173361?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "1"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "hpa"
+      ]
+    }
+  ],
+  "dateOfCreation": [
+    "2018-10-17"
+  ],
+  "firstIndexDate": [
+    "2018-10-16"
+  ],
+  "fullTextReceivedDate": [
+    "2020-07-10"
+  ],
+  "dateOfRevision": [
+    "2018-10-18"
+  ],
+  "electronicPublicationDate": [
+    "2018-09-11"
+  ],
+  "firstPublicationDate": [
+    "2018-09-11"
+  ]
+}

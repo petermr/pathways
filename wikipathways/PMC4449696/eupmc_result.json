@@ -1,0 +1,356 @@
+{
+  "id": [
+    "26237391"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26237391"
+  ],
+  "pmcid": [
+    "PMC4449696"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC4449696"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/jcm3020566"
+  ],
+  "title": [
+    "Molecular Mechanisms of Retinoid Receptors in Diabetes-Induced Cardiac Remodeling."
+  ],
+  "authorString": [
+    "Pan J, Guleria RS, Zhu S, Baker KM."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Pan J"
+          ],
+          "firstName": [
+            "Jing"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Molecular Cardiology, Department of Medicine, College of Medicine, Texas A & M Health Science Center, Baylor Scott & White Health, Central Texas Veterans Health Care System, Temple, TX, 76504, USA. jpan@medicine.tamhsc.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Guleria RS"
+          ],
+          "firstName": [
+            "Rakeshwar S"
+          ],
+          "lastName": [
+            "Guleria"
+          ],
+          "initials": [
+            "RS"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Molecular Cardiology, Department of Medicine, College of Medicine, Texas A & M Health Science Center, Baylor Scott & White Health, Central Texas Veterans Health Care System, Temple, TX, 76504, USA. rsguleria@medicine.tamhsc.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhu S"
+          ],
+          "firstName": [
+            "Sen"
+          ],
+          "lastName": [
+            "Zhu"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Molecular Cardiology, Department of Medicine, College of Medicine, Texas A & M Health Science Center, Baylor Scott & White Health, Central Texas Veterans Health Care System, Temple, TX, 76504, USA. szhu@medicine.tamhsc.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Baker KM"
+          ],
+          "firstName": [
+            "Kenneth M"
+          ],
+          "lastName": [
+            "Baker"
+          ],
+          "initials": [
+            "KM"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Division of Molecular Cardiology, Department of Medicine, College of Medicine, Texas A & M Health Science Center, Baylor Scott & White Health, Central Texas Veterans Health Care System, Temple, TX, 76504, USA. kbaker@medicine.tamhsc.edu."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "3"
+      ],
+      "journalIssueId": [
+        "2476325"
+      ],
+      "dateOfPublication": [
+        "2014 Jun"
+      ],
+      "monthOfPublication": [
+        "6"
+      ],
+      "yearOfPublication": [
+        "2014"
+      ],
+      "printPublicationDate": [
+        "2014-06-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of clinical medicine"
+          ],
+          "ISOAbbreviation": [
+            "J Clin Med"
+          ],
+          "medlineAbbreviation": [
+            "J Clin Med"
+          ],
+          "NLMid": [
+            "101606588"
+          ],
+          "ISSN": [
+            "2077-0383"
+          ],
+          "ESSN": [
+            "2077-0383"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2014"
+  ],
+  "pageInfo": [
+    "566-594"
+  ],
+  "abstractText": [
+    "Diabetic cardiomyopathy (DCM), a significant contributor to morbidity and mortality in diabetic patients, is characterized by ventricular dysfunction, in the absence of coronary atherosclerosis and hypertension. There is no specific therapeutic strategy to effectively treat patients with DCM, due to a lack of a mechanistic understanding of the disease process. Retinoic acid, the active metabolite of vitamin A, is involved in a wide range of biological processes, through binding and activation of nuclear receptors: retinoic acid receptors (RAR) and retinoid X receptors (RXR). RAR/RXR-mediated signaling has been implicated in the regulation of glucose and lipid metabolism. Recently, it has been reported that activation of RAR/RXR has an important role in preventing the development of diabetic cardiomyopathy, through improving cardiac insulin resistance, inhibition of intracellular oxidative stress, NF-κB-mediated inflammatory responses and the renin-angiotensin system. Moreover, downregulated RAR/RXR signaling has been demonstrated in diabetic myocardium, suggesting that impaired RAR/RXR signaling may be a trigger to accelerate diabetes-induced development of DCM. Understanding the molecular mechanisms of retinoid receptors in the regulation of cardiac metabolism and remodeling under diabetic conditions is important in providing the impetus for generating novel therapeutic approaches for the prevention and treatment of diabetes-induced cardiac complications and heart failure."
+  ],
+  "affiliation": [
+    "Division of Molecular Cardiology, Department of Medicine, College of Medicine, Texas A & M Health Science Center, Baylor Scott & White Health, Central Texas Veterans Health Care System, Temple, TX, 76504, USA. jpan@medicine.tamhsc.edu."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "R01 HL091902"
+          ],
+          "agency": [
+            "NHLBI NIH HHS"
+          ],
+          "acronym": [
+            "HL"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Diabetes mellitus",
+        "Retinoic acid",
+        "Retinoid X receptor",
+        "Retinoic acid receptor",
+        "Diabetic cardiomyopathy"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/jcm3020566"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4449696"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2015-08-04"
+  ],
+  "dateOfCreation": [
+    "2015-08-04"
+  ],
+  "firstIndexDate": [
+    "2015-08-04"
+  ],
+  "fullTextReceivedDate": [
+    "2015-07-30"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2014-06-04"
+  ],
+  "firstPublicationDate": [
+    "2014-06-04"
+  ]
+}

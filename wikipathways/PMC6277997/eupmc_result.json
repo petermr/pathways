@@ -1,0 +1,1205 @@
+{
+  "id": [
+    "30514346"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "30514346"
+  ],
+  "pmcid": [
+    "PMC6277997"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC6277997"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1186/s13046-018-0958-1"
+  ],
+  "title": [
+    "Hypermethylation of DMTN promotes the metastasis of colorectal cancer cells by regulating the actin cytoskeleton through Rac1 signaling activation."
+  ],
+  "authorString": [
+    "Ye YP, Jiao HL, Wang SY, Xiao ZY, Zhang D, Qiu JF, Zhang LJ, Zhao YL, Li TT, Li-Liang, Liao WT, Ding YQ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Ye YP"
+          ],
+          "firstName": [
+            "Ya-Ping"
+          ],
+          "lastName": [
+            "Ye"
+          ],
+          "initials": [
+            "YP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Jiao HL"
+          ],
+          "firstName": [
+            "Hong-Li"
+          ],
+          "lastName": [
+            "Jiao"
+          ],
+          "initials": [
+            "HL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wang SY"
+          ],
+          "firstName": [
+            "Shu-Yang"
+          ],
+          "lastName": [
+            "Wang"
+          ],
+          "initials": [
+            "SY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Xiao ZY"
+          ],
+          "firstName": [
+            "Zhi-Yuan"
+          ],
+          "lastName": [
+            "Xiao"
+          ],
+          "initials": [
+            "ZY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang D"
+          ],
+          "firstName": [
+            "Dan"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "D"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Qiu JF"
+          ],
+          "firstName": [
+            "Jun-Feng"
+          ],
+          "lastName": [
+            "Qiu"
+          ],
+          "initials": [
+            "JF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang LJ"
+          ],
+          "firstName": [
+            "Ling-Jie"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "LJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhao YL"
+          ],
+          "firstName": [
+            "Ya-Li"
+          ],
+          "lastName": [
+            "Zhao"
+          ],
+          "initials": [
+            "YL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li TT"
+          ],
+          "firstName": [
+            "Ting-Ting"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "TT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li-Liang"
+          ],
+          "lastName": [
+            "Li-Liang"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Liao WT"
+          ],
+          "firstName": [
+            "Wen-Ting"
+          ],
+          "lastName": [
+            "Liao"
+          ],
+          "initials": [
+            "WT"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China. 30221424@qq.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China. 30221424@qq.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China. 30221424@qq.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Ding YQ"
+          ],
+          "firstName": [
+            "Yan-Qing"
+          ],
+          "lastName": [
+            "Ding"
+          ],
+          "initials": [
+            "YQ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China. dyq@fimmu.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Department of Pathology, School of Basic Medical Sciences, Southern Medical University, Guangzhou, 510515, China. dyq@fimmu.com."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Guangdong Provincial Key Laboratory of Molecular Tumor Pathology, Guangzhou, China. dyq@fimmu.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "1"
+      ],
+      "volume": [
+        "37"
+      ],
+      "journalIssueId": [
+        "2756191"
+      ],
+      "dateOfPublication": [
+        "2018 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Journal of experimental & clinical cancer research : CR"
+          ],
+          "ISOAbbreviation": [
+            "J. Exp. Clin. Cancer Res."
+          ],
+          "medlineAbbreviation": [
+            "J Exp Clin Cancer Res"
+          ],
+          "NLMid": [
+            "8308647"
+          ],
+          "ISSN": [
+            "0392-9078"
+          ],
+          "ESSN": [
+            "1756-9966"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "pageInfo": [
+    "299"
+  ],
+  "abstractText": [
+    "BACKGROUND:Colorectal cancer (CRC) is one of the most common digestive malignant tumors, and DMTN is a transcriptionally differentially expressed gene that was identified using CRC mRNA sequencing data from The Cancer Genome Atlas (TCGA). Our preliminary work suggested that the expression of DMTN was downregulated in CRC, and the Rac1 signaling pathway was significantly enriched in CRC tissues with low DMTN expression. However, the specific functions and underlying molecular mechanisms of DMTN in the progression of CRC and the upstream factors regulating the downregulation of the gene remain unclear. METHODS:DMTN expression was analyzed in CRC tissues, and the relationship between DMTN expression and the clinicopathological parameters was analyzed. In vitro and in vivo experimental models were used to detect the effects of DMTN dysregulation on invasion and metastasis of CRC cells. GSEA assay was performed to explore the mechanism of DMTN in invasion and metastasis of CRC. Westernblot, Co-IP and GST-Pull-Down assay were used to detect the interaction between DMTN and ARHGEF2, as well as the activation of the RAC1 signaling. Bisulfite genomic sequence (BSP) assay was used to test the degree of methylation of DMTN gene promoter in CRC tissues. RESULTS:We found that the expression of DMTN was significantly decreased in CRC tissues, and the downregulation of DMTN was associated with advanced progression and poor survival and was regarded as an independent predictive factor of CRC patient prognosis. The overexpression of DMTN inhibited, while the knockdown of DMTN promoted, invasion and metastasis in CRC cells. Moreover, hypermethylation and the deletion of DMTN relieved binding to the ARHGEF2 protein, activated the Rac1 signaling pathway, regulated actin cytoskeletal rearrangements, and promoted the invasion and metastasis of CRC cells. CONCLUSION:Our study demonstrated that the downregulation of DMTN promoted the metastasis of colorectal cancer cells by regulating the actin cytoskeleton through RAC1 signaling activation, potentially providing a new therapeutic target to enable cancer precision medicine for CRC patients."
+  ],
+  "affiliation": [
+    "Department of Pathology, Nanfang Hospital, Southern Medical University, Guangzhou, 510515, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "2017A030313463"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2018M633080"
+          ],
+          "agency": [
+            "Postdoctoral Research Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016A030310394"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016A030310395"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "A2016218"
+          ],
+          "agency": [
+            "Guangdong Medical Research Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016A030310392"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017A030310117"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017A030313707"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81702915"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China (CN)"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81773196"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2015CB554002"
+          ],
+          "agency": [
+            "National Basic Research Program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81472313"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "A2017302"
+          ],
+          "agency": [
+            "Guangdong Medical Research Foundation"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017A030313583"
+          ],
+          "agency": [
+            "Natural Science Foundation of Guangdong Province"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2016M592511"
+          ],
+          "agency": [
+            "Postdoctoral Research Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "2017YFC1309002"
+          ],
+          "agency": [
+            "National key R&D program of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81672886"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "81874194"
+          ],
+          "agency": [
+            "National Natural Science Foundation of China"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Animals"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Inbred BALB C"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Mice, Nude"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Colorectal Neoplasms"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Neoplasm Metastasis"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Disease Models, Animal"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "rac1 GTP-Binding Protein"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "Y"
+          ],
+          "descriptorName": [
+            "DNA Methylation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Down-Regulation"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Female"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Actin Cytoskeleton"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PA"
+                  ],
+                  "qualifierName": [
+                    "pathology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Rho Guanine Nucleotide Exchange Factors"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "GE"
+                  ],
+                  "qualifierName": [
+                    "genetics"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Heterografts"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Metastasis",
+        "hypermethylation",
+        "Colorectal Cancer",
+        "Rac1 Signaling",
+        "Dmtn"
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "RAC1 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "ARHGEF2 protein, human"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "rac1 GTP-Binding Protein"
+          ],
+          "registryNumber": [
+            "EC 3.6.5.2"
+          ]
+        },
+        {
+          "name": [
+            "rho guanine nucleotide exchange factors"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1186/s13046-018-0958-1"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6277997"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC6277997?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "6"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2019-02-12"
+  ],
+  "dateOfCreation": [
+    "2018-12-06"
+  ],
+  "firstIndexDate": [
+    "2018-12-06"
+  ],
+  "fullTextReceivedDate": [
+    "2020-07-14"
+  ],
+  "dateOfRevision": [
+    "2019-02-15"
+  ],
+  "electronicPublicationDate": [
+    "2018-12-04"
+  ],
+  "firstPublicationDate": [
+    "2018-12-04"
+  ]
+}

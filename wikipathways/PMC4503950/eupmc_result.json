@@ -1,0 +1,811 @@
+{
+  "id": [
+    "26177797"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26177797"
+  ],
+  "pmcid": [
+    "PMC4503950"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC4503950"
+      ]
+    }
+  ],
+  "doi": [
+    "10.1038/srep11494"
+  ],
+  "title": [
+    "EGCG reverses human neutrophil elastase-induced migration in A549 cells by directly binding to HNE and by regulating α1-AT."
+  ],
+  "authorString": [
+    "Xiaokaiti Y, Wu H, Chen Y, Yang H, Duan J, Li X, Pan Y, Tie L, Zhang L, Li X."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Xiaokaiti Y"
+          ],
+          "firstName": [
+            "Yilixiati"
+          ],
+          "lastName": [
+            "Xiaokaiti"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] Department of Pharmacology, School of Basic Medical Science, Peking University and Institute of System Biomedicine, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Wu H"
+          ],
+          "firstName": [
+            "Haoming"
+          ],
+          "lastName": [
+            "Wu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Immunology, Peking University Health Science Center, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen Y"
+          ],
+          "firstName": [
+            "Ya"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] School of Pharmaceutical Sciences, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yang H"
+          ],
+          "firstName": [
+            "Haopeng"
+          ],
+          "lastName": [
+            "Yang"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] Department of Pharmacology, School of Basic Medical Science, Peking University and Institute of System Biomedicine, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Duan J"
+          ],
+          "firstName": [
+            "Jianhui"
+          ],
+          "lastName": [
+            "Duan"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] Department of Pharmacology, School of Basic Medical Science, Peking University and Institute of System Biomedicine, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xin"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] Department of Pharmacology, School of Basic Medical Science, Peking University and Institute of System Biomedicine, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Pan Y"
+          ],
+          "firstName": [
+            "Yan"
+          ],
+          "lastName": [
+            "Pan"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] Department of Pharmacology, School of Basic Medical Science, Peking University and Institute of System Biomedicine, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Tie L"
+          ],
+          "firstName": [
+            "Lu"
+          ],
+          "lastName": [
+            "Tie"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] Department of Pharmacology, School of Basic Medical Science, Peking University and Institute of System Biomedicine, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang L"
+          ],
+          "firstName": [
+            "Liangren"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "L"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] School of Pharmaceutical Sciences, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li X"
+          ],
+          "firstName": [
+            "Xuejun"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] Department of Pharmacology, School of Basic Medical Science, Peking University and Institute of System Biomedicine, Peking University, Beijing 100191, China."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "2243512"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Scientific reports"
+          ],
+          "ISOAbbreviation": [
+            "Sci Rep"
+          ],
+          "medlineAbbreviation": [
+            "Sci Rep"
+          ],
+          "NLMid": [
+            "101563288"
+          ],
+          "ISSN": [
+            "2045-2322"
+          ],
+          "ESSN": [
+            "2045-2322"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "11494"
+  ],
+  "abstractText": [
+    "Lung carcinogenesis is a complex process that occurs in unregulated inflammatory environment. EGCG has been extensively investigated as a multi-targeting anti-tumor and anti-inflammatory compound. In this study, we demonstrated a novel mechanism by which EGCG reverses the neutrophil elastase-induced migration of A549 cells. We found that neutrophil elastase directly triggered human adenocarcinoma A549 cell migration and that EGCG suppressed the elevation of tumor cell migration induced by neutrophil elastase. We observed that EGCG directly binds to neutrophil elastase and inhibits its enzymatic activity based on the CDOCKER algorithm, MD stimulation by GROMACS, SPR assay and elastase enzymatic activity assay. As the natural inhibitor of neutrophil elastase, α1-antitrypsin is synthesized in tumor cells. We further demonstrated that the expression of α1-antitrypsin was up-regulated after EGCG treatment in neutrophil elastase-treated A549 cells. We preliminarily discovered that the EGCG-mediated induction of α1-antitrypsin expression might be correlated with the regulatory effect of EGCG on the PI3K/Akt pathway. Overall, our results suggest that EGCG ameliorates the neutrophil elastase-induced migration of A549 cells. The mechanism underlying this effect may include two processes: EGCG directly binds to neutrophil elastase and inhibits its enzymatic activity; EGCG enhances the expression of α1-antitrypsin by regulating the PI3K/AKT pathway."
+  ],
+  "affiliation": [
+    "1] State Key Laboratory of Natural and Biomimetic Drugs, Peking University, Beijing 100191, China [2] Department of Pharmacology, School of Basic Medical Science, Peking University and Institute of System Biomedicine, Peking University, Beijing 100191, China."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "Research Support, Non-U.S. Gov't",
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "meshHeadingList": [
+    {
+      "meshHeading": [
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Line, Tumor"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Humans"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Catechin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "AA"
+                  ],
+                  "qualifierName": [
+                    "analogs & derivatives"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                },
+                {
+                  "abbreviation": [
+                    "PD"
+                  ],
+                  "qualifierName": [
+                    "pharmacology"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Leukocyte Elastase"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "alpha 1-Antitrypsin"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Surface Plasmon Resonance"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Biosensing Techniques"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Signal Transduction"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Proliferation"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Cell Movement"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "DE"
+                  ],
+                  "qualifierName": [
+                    "drug effects"
+                  ],
+                  "majorTopic_YN": [
+                    "Y"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Protein Binding"
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Proto-Oncogene Proteins c-akt"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "majorTopic_YN": [
+            "N"
+          ],
+          "descriptorName": [
+            "Phosphatidylinositol 3-Kinases"
+          ],
+          "meshQualifierList": [
+            {
+              "meshQualifier": [
+                {
+                  "abbreviation": [
+                    "ME"
+                  ],
+                  "qualifierName": [
+                    "metabolism"
+                  ],
+                  "majorTopic_YN": [
+                    "N"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "chemicalList": [
+    {
+      "chemical": [
+        {
+          "name": [
+            "alpha 1-Antitrypsin"
+          ],
+          "registryNumber": [
+            "0"
+          ]
+        },
+        {
+          "name": [
+            "Leukocyte Elastase"
+          ],
+          "registryNumber": [
+            "EC 3.4.21.37"
+          ]
+        },
+        {
+          "name": [
+            "Proto-Oncogene Proteins c-akt"
+          ],
+          "registryNumber": [
+            "EC 2.7.11.1"
+          ]
+        },
+        {
+          "name": [
+            "Phosphatidylinositol 3-Kinases"
+          ],
+          "registryNumber": [
+            "EC 2.7.1.-"
+          ]
+        },
+        {
+          "name": [
+            "epigallocatechin gallate"
+          ],
+          "registryNumber": [
+            "BQM438CTEL"
+          ]
+        },
+        {
+          "name": [
+            "Catechin"
+          ],
+          "registryNumber": [
+            "8R1V1STN48"
+          ]
+        }
+      ]
+    }
+  ],
+  "subsetList": [
+    {
+      "subset": [
+        {
+          "code": [
+            "IM"
+          ],
+          "name": [
+            "Index Medicus"
+          ]
+        }
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.1038/srep11494"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4503950"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4503950?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "11"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "pdb"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2016-08-08"
+  ],
+  "dateOfCreation": [
+    "2015-07-16"
+  ],
+  "firstIndexDate": [
+    "2015-07-17"
+  ],
+  "fullTextReceivedDate": [
+    "2015-07-25"
+  ],
+  "dateOfRevision": [
+    "2015-07-29"
+  ],
+  "electronicPublicationDate": [
+    "2015-07-16"
+  ],
+  "firstPublicationDate": [
+    "2015-07-16"
+  ]
+}

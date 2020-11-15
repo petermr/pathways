@@ -1,0 +1,482 @@
+{
+  "id": [
+    "24133413"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24133413"
+  ],
+  "pmcid": [
+    "PMC3794211"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC3794211"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3389/fncel.2013.00178"
+  ],
+  "title": [
+    "Neuronal dark matter: the emerging role of microRNAs in neurodegeneration."
+  ],
+  "authorString": [
+    "Goodall EF, Heath PR, Bandmann O, Kirby J, Shaw PJ."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Goodall EF"
+          ],
+          "firstName": [
+            "Emily F"
+          ],
+          "lastName": [
+            "Goodall"
+          ],
+          "initials": [
+            "EF"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Neuroscience, Sheffield Institute for Translational Neuroscience, University of Sheffield Sheffield, UK."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Heath PR"
+          ],
+          "firstName": [
+            "Paul R"
+          ],
+          "lastName": [
+            "Heath"
+          ],
+          "initials": [
+            "PR"
+          ]
+        },
+        {
+          "fullName": [
+            "Bandmann O"
+          ],
+          "firstName": [
+            "Oliver"
+          ],
+          "lastName": [
+            "Bandmann"
+          ],
+          "initials": [
+            "O"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-3149-0252",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Kirby J"
+          ],
+          "firstName": [
+            "Janine"
+          ],
+          "lastName": [
+            "Kirby"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-7468-5917",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shaw PJ"
+          ],
+          "firstName": [
+            "Pamela J"
+          ],
+          "lastName": [
+            "Shaw"
+          ],
+          "initials": [
+            "PJ"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-8925-2567",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-3149-0252",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-7468-5917",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-8925-2567",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "7"
+      ],
+      "journalIssueId": [
+        "2481063"
+      ],
+      "dateOfPublication": [
+        "2013 Oct"
+      ],
+      "monthOfPublication": [
+        "10"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-10-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in cellular neuroscience"
+          ],
+          "medlineAbbreviation": [
+            "Front Cell Neurosci"
+          ],
+          "NLMid": [
+            "101477935"
+          ],
+          "ISSN": [
+            "1662-5102"
+          ],
+          "ESSN": [
+            "1662-5102"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "178"
+  ],
+  "abstractText": [
+    "MicroRNAs (miRNAs) are small, abundant RNA molecules that constitute part of the cell's non-coding RNA \"dark matter.\" In recent years, the discovery of miRNAs has revolutionised the traditional view of gene expression and our understanding of miRNA biogenesis and function has expanded. Altered expression of miRNAs is increasingly recognized as a feature of many disease states, including neurodegeneration. Here, we review the emerging role for miRNA dysfunction in Alzheimer's disease, Parkinson's disease, amyotrophic lateral sclerosis (ALS) and Huntington's disease pathogenesis. We emphasize the complex nature of gene regulatory networks and the need for systematic studies, with larger sample cohorts than have so far been reported, to reveal the most important miRNA regulators in disease. Finally, miRNA diversity and their potential to target multiple pathways, offers novel clinical applications for miRNAs as biomarkers and therapeutic agents in neurodegenerative diseases."
+  ],
+  "affiliation": [
+    "Department of Neuroscience, Sheffield Institute for Translational Neuroscience, University of Sheffield Sheffield, UK."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "grantsList": [
+    {
+      "grant": [
+        {
+          "grantId": [
+            "G-1202"
+          ],
+          "agency": [
+            "Parkinson's UK"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "NF-SI-0512-10082"
+          ],
+          "agency": [
+            "Department of Health"
+          ],
+          "acronym": [
+            "DH_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "Goodall/Oct10/6066"
+          ],
+          "agency": [
+            "Motor Neurone Disease Association"
+          ],
+          "acronym": [
+            "MNDA_"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        },
+        {
+          "grantId": [
+            "MR/K000039/1"
+          ],
+          "agency": [
+            "Medical Research Council"
+          ],
+          "orderIn": [
+            "0"
+          ]
+        }
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Alzheimer's disease",
+        "Neurodegeneration",
+        "Amyotrophic Lateral Sclerosis",
+        "Huntington's disease",
+        "Parkinson's Disease",
+        "MicroRNA"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24133413/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24133413/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fncel.2013.00178"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3794211"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3794211?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "81"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "refsnp"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2014-03-25"
+  ],
+  "dateOfCreation": [
+    "2013-10-18"
+  ],
+  "firstIndexDate": [
+    "2013-11-09"
+  ],
+  "fullTextReceivedDate": [
+    "2013-10-18"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2013-10-10"
+  ],
+  "firstPublicationDate": [
+    "2013-10-10"
+  ]
+}

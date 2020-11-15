@@ -1,0 +1,501 @@
+{
+  "id": [
+    "29414871"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "29414871"
+  ],
+  "pmcid": [
+    "PMC5836032"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC5836032"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3390/ani8020024"
+  ],
+  "title": [
+    "Mudskippers and Their Genetic Adaptations to an Amphibious Lifestyle."
+  ],
+  "authorString": [
+    "You X, Sun M, Li J, Bian C, Chen J, Yi Y, Yu H, Shi Q."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "You X"
+          ],
+          "firstName": [
+            "Xinxin"
+          ],
+          "lastName": [
+            "You"
+          ],
+          "initials": [
+            "X"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. youxinxin@genomics.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 518063, China. youxinxin@genomics.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun M"
+          ],
+          "firstName": [
+            "Min"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "M"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. sunmin_wolf@163.com."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Li J"
+          ],
+          "firstName": [
+            "Jia"
+          ],
+          "lastName": [
+            "Li"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0003-1500-869X",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. lijia1@genomics.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Bian C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Bian"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. bianchao@genomics.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 518063, China. bianchao@genomics.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Chen J"
+          ],
+          "firstName": [
+            "Jieming"
+          ],
+          "lastName": [
+            "Chen"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. chenjieming@genomics.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "BGI-Zhenjiang Institute of Hydrobiology, BGI Marine, BGI, Zhenjiang 212000, China. chenjieming@genomics.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yi Y"
+          ],
+          "firstName": [
+            "Yunhai"
+          ],
+          "lastName": [
+            "Yi"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-3516-6700",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. yiyunhai@genomics.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 518063, China. yiyunhai@genomics.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Yu H"
+          ],
+          "firstName": [
+            "Hui"
+          ],
+          "lastName": [
+            "Yu"
+          ],
+          "initials": [
+            "H"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. yuhui@genomics.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Shi Q"
+          ],
+          "firstName": [
+            "Qiong"
+          ],
+          "lastName": [
+            "Shi"
+          ],
+          "initials": [
+            "Q"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. shiqiong@genomics.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "BGI Education Center, University of Chinese Academy of Sciences, Shenzhen 518063, China. shiqiong@genomics.cn."
+                  ]
+                },
+                {
+                  "affiliation": [
+                    "Laboratory of Aquatic Genomics, College of Life Sciences and Oceanography, Shenzhen University, Shenzhen 518060, China. shiqiong@genomics.cn."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0003-1500-869X",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0002-3516-6700",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "issue": [
+        "2"
+      ],
+      "volume": [
+        "8"
+      ],
+      "journalIssueId": [
+        "2645500"
+      ],
+      "dateOfPublication": [
+        "2018 Feb"
+      ],
+      "monthOfPublication": [
+        "2"
+      ],
+      "yearOfPublication": [
+        "2018"
+      ],
+      "printPublicationDate": [
+        "2018-02-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Animals : an open access journal from MDPI"
+          ],
+          "ISOAbbreviation": [
+            "Animals (Basel)"
+          ],
+          "medlineAbbreviation": [
+            "Animals (Basel)"
+          ],
+          "NLMid": [
+            "101635614"
+          ],
+          "ISSN": [
+            "2076-2615"
+          ],
+          "ESSN": [
+            "2076-2615"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2018"
+  ],
+  "abstractText": [
+    "Mudskippers are the largest group of amphibious teleost fish that are uniquely adapted to live on mudflats. During their successful transition from aqueous life to terrestrial living, these fish have evolved morphological and physiological modifications of aerial vision and olfaction, higher ammonia tolerance, aerial respiration, improved immunological defense against terrestrial pathogens, and terrestrial locomotion using protruded pectoral fins. Comparative genomic and transcriptomic data have been accumulated and analyzed for understanding molecular mechanisms of the terrestrial adaptations. Our current review provides a general introduction to mudskippers and recent research advances of their genetic adaptations to the amphibious lifestyle, which will be helpful for understanding the evolutionary transition of vertebrates from water to land. Our insights into the genomes and transcriptomes will also support molecular breeding, functional identification, and natural compound screening."
+  ],
+  "affiliation": [
+    "Shenzhen Key Lab of Marine Genomics, Guangdong Provincial Key Lab of Molecular Breeding in Marine Economic Animals, BGI Academy of Marine Sciences, BGI Marine, BGI, Shenzhen 518083, China. youxinxin@genomics.cn."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Genome",
+        "Mudskipper",
+        "Transcriptome",
+        "Terrestrial Adaptation",
+        "Amphibious Lifestyle"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3390/ani8020024"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC5836032"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "N"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "0"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCreation": [
+    "2018-02-08"
+  ],
+  "firstIndexDate": [
+    "2018-02-09"
+  ],
+  "fullTextReceivedDate": [
+    "2018-03-09"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2018-02-07"
+  ],
+  "firstPublicationDate": [
+    "2018-02-07"
+  ]
+}

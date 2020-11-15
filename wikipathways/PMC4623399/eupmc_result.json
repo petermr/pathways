@@ -1,0 +1,489 @@
+{
+  "id": [
+    "26579168"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "26579168"
+  ],
+  "pmcid": [
+    "PMC4623399"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC4623399"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3389/fpls.2015.00922"
+  ],
+  "title": [
+    "Impacts of high ATP supply from chloroplasts and mitochondria on the leaf metabolism of Arabidopsis thaliana."
+  ],
+  "authorString": [
+    "Liang C, Zhang Y, Cheng S, Osorio S, Sun Y, Fernie AR, Cheung CY, Lim BL."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Liang C"
+          ],
+          "firstName": [
+            "Chao"
+          ],
+          "lastName": [
+            "Liang"
+          ],
+          "initials": [
+            "C"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biological Sciences, The University of Hong Kong Pokfulam, Hong Kong."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zhang Y"
+          ],
+          "firstName": [
+            "Youjun"
+          ],
+          "lastName": [
+            "Zhang"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Max Planck Institute of Molecular Plant Physiology Potsdam-Golm, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheng S"
+          ],
+          "firstName": [
+            "Shifeng"
+          ],
+          "lastName": [
+            "Cheng"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biological Sciences, The University of Hong Kong Pokfulam, Hong Kong."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Osorio S"
+          ],
+          "firstName": [
+            "Sonia"
+          ],
+          "lastName": [
+            "Osorio"
+          ],
+          "initials": [
+            "S"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-0159-6091",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Departamento de Biología Molecular y Bioquímica, Instituto de Hortofruticultura Subtropical y Mediterranea, Universidad de Málaga-Consejo Superior de Investigaciones Científicas Málaga, Spain."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Sun Y"
+          ],
+          "firstName": [
+            "Yuzhe"
+          ],
+          "lastName": [
+            "Sun"
+          ],
+          "initials": [
+            "Y"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biological Sciences, The University of Hong Kong Pokfulam, Hong Kong."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Fernie AR"
+          ],
+          "firstName": [
+            "Alisdair R"
+          ],
+          "lastName": [
+            "Fernie"
+          ],
+          "initials": [
+            "AR"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Max Planck Institute of Molecular Plant Physiology Potsdam-Golm, Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Cheung CY"
+          ],
+          "firstName": [
+            "C Y M"
+          ],
+          "lastName": [
+            "Cheung"
+          ],
+          "initials": [
+            "CY"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Department of Chemical and Biomolecular Engineering, National University of Singapore Singapore, Singapore."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Lim BL"
+          ],
+          "firstName": [
+            "Boon L"
+          ],
+          "lastName": [
+            "Lim"
+          ],
+          "initials": [
+            "BL"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "School of Biological Sciences, The University of Hong Kong Pokfulam, Hong Kong ; State Key Laboratory of Agrobiotechnology, The Chinese University of Hong Kong Shatin, Hong Kong."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-0159-6091",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "dataLinksTagsList": [
+    {
+      "dataLinkstag": [
+        "related_data",
+        "supporting_data",
+        "altmetrics"
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "6"
+      ],
+      "journalIssueId": [
+        "2260598"
+      ],
+      "dateOfPublication": [
+        "2015"
+      ],
+      "monthOfPublication": [
+        "0"
+      ],
+      "yearOfPublication": [
+        "2015"
+      ],
+      "printPublicationDate": [
+        "2015-01-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in plant science"
+          ],
+          "medlineAbbreviation": [
+            "Front Plant Sci"
+          ],
+          "NLMid": [
+            "101568200"
+          ],
+          "ISSN": [
+            "1664-462X"
+          ],
+          "ESSN": [
+            "1664-462X"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2015"
+  ],
+  "pageInfo": [
+    "922"
+  ],
+  "abstractText": [
+    "Chloroplasts and mitochondria are the major ATP producing organelles in plant leaves. Arabidopsis thaliana purple acid phosphatase 2 (AtPAP2) is a phosphatase dually targeted to the outer membranes of both organelles and it plays a role in the import of selected nuclear-encoded proteins into these two organelles. Overexpression (OE) of AtPAP2 in A. thaliana accelerates plant growth and promotes flowering, seed yield, and biomass at maturity. Measurement of ADP/ATP/NADP(+)/NADPH contents in the leaves of 20-day-old OE and wild-type (WT) lines at the end of night and at 1 and 8 h following illumination in a 16/8 h photoperiod revealed that the ATP levels and ATP/NADPH ratios were significantly increased in the OE line at all three time points. The AtPAP2 OE line is therefore a good model to investigate the impact of high energy on the global molecular status of Arabidopsis. In this study, transcriptome, proteome, and metabolome profiles of the high ATP transgenic line were examined and compared with those of WT plants. A comparison of OE and WT at the end of the night provide valuable information on the impact of higher ATP output from mitochondria on plant physiology, as mitochondrial respiration is the major source of ATP in the dark in leaves. Similarly, comparison of OE and WT following illumination will provide information on the impact of higher energy output from chloroplasts on plant physiology. OE of AtPAP2 was found to significantly affect the transcript and protein abundances of genes encoded by the two organellar genomes. For example, the protein abundances of many ribosomal proteins encoded by the chloroplast genome were higher in the AtPAP2 OE line under both light and dark conditions, while the protein abundances of multiple components of the photosynthetic complexes were lower. RNA-seq data also showed that the transcription of the mitochondrial genome is greatly affected by the availability of energy. These data reflect that the transcription and translation of organellar genomes are tightly coupled with the energy status. This study thus provides comprehensive information on the impact of high ATP level on plant physiology, from organellar biology to primary and secondary metabolism."
+  ],
+  "affiliation": [
+    "School of Biological Sciences, The University of Hong Kong Pokfulam, Hong Kong."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic-eCollection"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "research-article",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Chloroplasts",
+        "Mitochondria",
+        "ATP",
+        "NADPH",
+        "Atpap2"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fpls.2015.00922"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4623399"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC4623399?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "N"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "Y"
+  ],
+  "citedByCount": [
+    "7"
+  ],
+  "hasData": [
+    "Y"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "Y"
+  ],
+  "dbCrossReferenceList": [
+    {
+      "dbName": [
+        "EMBL"
+      ]
+    }
+  ],
+  "hasLabsLinks": [
+    "Y"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "Y"
+  ],
+  "tmAccessionTypeList": [
+    {
+      "accessionType": [
+        "geo"
+      ]
+    }
+  ],
+  "dateOfCompletion": [
+    "2015-11-20"
+  ],
+  "dateOfCreation": [
+    "2015-11-19"
+  ],
+  "firstIndexDate": [
+    "2015-11-18"
+  ],
+  "fullTextReceivedDate": [
+    "2015-11-19"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2015-10-28"
+  ],
+  "firstPublicationDate": [
+    "2015-10-28"
+  ]
+}

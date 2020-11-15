@@ -1,0 +1,467 @@
+{
+  "id": [
+    "24391587"
+  ],
+  "source": [
+    "MED"
+  ],
+  "pmid": [
+    "24391587"
+  ],
+  "pmcid": [
+    "PMC3870290"
+  ],
+  "fullTextIdList": [
+    {
+      "fullTextId": [
+        "PMC3870290"
+      ]
+    }
+  ],
+  "doi": [
+    "10.3389/fnagi.2013.00098"
+  ],
+  "title": [
+    "Neprilysin and Aβ Clearance: Impact of the APP Intracellular Domain in NEP Regulation and Implications in Alzheimer's Disease."
+  ],
+  "authorString": [
+    "Grimm MO, Mett J, Stahlmann CP, Haupenthal VJ, Zimmer VC, Hartmann T."
+  ],
+  "authorList": [
+    {
+      "author": [
+        {
+          "fullName": [
+            "Grimm MO"
+          ],
+          "firstName": [
+            "Marcus O W"
+          ],
+          "lastName": [
+            "Grimm"
+          ],
+          "initials": [
+            "MO"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0002-4160-6506",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Experimental Neurology, Saarland University , Homburg, Saar , Germany ; Neurodegeneration and Neurobiology, Saarland University , Homburg, Saar , Germany ; Deutsches Institut für DemenzPrävention, Saarland University , Homburg, Saar , Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Mett J"
+          ],
+          "firstName": [
+            "Janine"
+          ],
+          "lastName": [
+            "Mett"
+          ],
+          "initials": [
+            "J"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Experimental Neurology, Saarland University , Homburg, Saar , Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Stahlmann CP"
+          ],
+          "firstName": [
+            "Christoph P"
+          ],
+          "lastName": [
+            "Stahlmann"
+          ],
+          "initials": [
+            "CP"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Experimental Neurology, Saarland University , Homburg, Saar , Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Haupenthal VJ"
+          ],
+          "firstName": [
+            "Viola J"
+          ],
+          "lastName": [
+            "Haupenthal"
+          ],
+          "initials": [
+            "VJ"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Experimental Neurology, Saarland University , Homburg, Saar , Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Zimmer VC"
+          ],
+          "firstName": [
+            "Valerie C"
+          ],
+          "lastName": [
+            "Zimmer"
+          ],
+          "initials": [
+            "VC"
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Experimental Neurology, Saarland University , Homburg, Saar , Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "fullName": [
+            "Hartmann T"
+          ],
+          "firstName": [
+            "Tobias"
+          ],
+          "lastName": [
+            "Hartmann"
+          ],
+          "initials": [
+            "T"
+          ],
+          "authorId": [
+            {
+              "_": "0000-0001-7481-6430",
+              "$": {
+                "type": "ORCID"
+              }
+            }
+          ],
+          "authorAffiliationDetailsList": [
+            {
+              "authorAffiliation": [
+                {
+                  "affiliation": [
+                    "Experimental Neurology, Saarland University , Homburg, Saar , Germany ; Neurodegeneration and Neurobiology, Saarland University , Homburg, Saar , Germany ; Deutsches Institut für DemenzPrävention, Saarland University , Homburg, Saar , Germany."
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "authorIdList": [
+    {
+      "authorId": [
+        {
+          "_": "0000-0002-4160-6506",
+          "$": {
+            "type": "ORCID"
+          }
+        },
+        {
+          "_": "0000-0001-7481-6430",
+          "$": {
+            "type": "ORCID"
+          }
+        }
+      ]
+    }
+  ],
+  "journalInfo": [
+    {
+      "volume": [
+        "5"
+      ],
+      "journalIssueId": [
+        "3026734"
+      ],
+      "dateOfPublication": [
+        "2013 Dec"
+      ],
+      "monthOfPublication": [
+        "12"
+      ],
+      "yearOfPublication": [
+        "2013"
+      ],
+      "printPublicationDate": [
+        "2013-12-01"
+      ],
+      "journal": [
+        {
+          "title": [
+            "Frontiers in aging neuroscience"
+          ],
+          "medlineAbbreviation": [
+            "Front Aging Neurosci"
+          ],
+          "NLMid": [
+            "101525824"
+          ],
+          "ISSN": [
+            "1663-4365"
+          ],
+          "ESSN": [
+            "1663-4365"
+          ]
+        }
+      ]
+    }
+  ],
+  "pubYear": [
+    "2013"
+  ],
+  "pageInfo": [
+    "98"
+  ],
+  "abstractText": [
+    "One of the characteristic hallmarks of Alzheimer's disease (AD) is an accumulation of amyloid β (Aβ) leading to plaque formation and toxic oligomeric Aβ complexes. Besides the de novo synthesis of Aβ caused by amyloidogenic processing of the amyloid precursor protein (APP), Aβ levels are also highly dependent on Aβ degradation. Several enzymes are described to cleave Aβ. In this review we focus on one of the most prominent Aβ degrading enzymes, the zinc-metalloprotease Neprilysin (NEP). In the first part of the review we discuss beside the general role of NEP in Aβ degradation the alterations of the enzyme observed during normal aging and the progression of AD. In vivo and cell culture experiments reveal that a decreased NEP level results in an increased Aβ level and vice versa. In a pathological situation like AD, it has been reported that NEP levels and activity are decreased and it has been suggested that certain polymorphisms in the NEP gene result in an increased risk for AD. Conversely, increasing NEP activity in AD mouse models revealed an improvement in some behavioral tests. Therefore it has been suggested that increasing NEP might be an interesting potential target to treat or to be protective for AD making it indispensable to understand the regulation of NEP. Interestingly, it is discussed that the APP intracellular domain (AICD), one of the cleavage products of APP processing, which has high similarities to Notch receptor processing, might be involved in the transcriptional regulation of NEP. However, the mechanisms of NEP regulation by AICD, which might be helpful to develop new therapeutic strategies, are up to now controversially discussed and summarized in the second part of this review. In addition, we review the impact of AICD not only in the transcriptional regulation of NEP but also of further genes."
+  ],
+  "affiliation": [
+    "Experimental Neurology, Saarland University , Homburg, Saar , Germany ; Neurodegeneration and Neurobiology, Saarland University , Homburg, Saar , Germany ; Deutsches Institut für DemenzPrävention, Saarland University , Homburg, Saar , Germany."
+  ],
+  "publicationStatus": [
+    "epublish"
+  ],
+  "language": [
+    "eng"
+  ],
+  "pubModel": [
+    "Electronic"
+  ],
+  "pubTypeList": [
+    {
+      "pubType": [
+        "review-article",
+        "Review",
+        "Journal Article"
+      ]
+    }
+  ],
+  "keywordList": [
+    {
+      "keyword": [
+        "Transcriptional regulation",
+        "Amyloid beta",
+        "Alzheimer’s disease",
+        "Aicd",
+        "Neprilysin",
+        "Abeta Degradation",
+        "Abeta Clearance"
+      ]
+    }
+  ],
+  "fullTextUrlList": [
+    {
+      "fullTextUrl": [
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24391587/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Free"
+          ],
+          "availabilityCode": [
+            "F"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "PubMedCentral"
+          ],
+          "url": [
+            "https://www.ncbi.nlm.nih.gov/pmc/articles/pmid/24391587/pdf/?tool=EBI"
+          ]
+        },
+        {
+          "availability": [
+            "Subscription required"
+          ],
+          "availabilityCode": [
+            "S"
+          ],
+          "documentStyle": [
+            "doi"
+          ],
+          "site": [
+            "DOI"
+          ],
+          "url": [
+            "https://doi.org/10.3389/fnagi.2013.00098"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "html"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3870290"
+          ]
+        },
+        {
+          "availability": [
+            "Open access"
+          ],
+          "availabilityCode": [
+            "OA"
+          ],
+          "documentStyle": [
+            "pdf"
+          ],
+          "site": [
+            "Europe_PMC"
+          ],
+          "url": [
+            "https://europepmc.org/articles/PMC3870290?pdf=render"
+          ]
+        }
+      ]
+    }
+  ],
+  "isOpenAccess": [
+    "Y"
+  ],
+  "inEPMC": [
+    "Y"
+  ],
+  "inPMC": [
+    "Y"
+  ],
+  "hasPDF": [
+    "Y"
+  ],
+  "hasBook": [
+    "N"
+  ],
+  "hasSuppl": [
+    "N"
+  ],
+  "citedByCount": [
+    "45"
+  ],
+  "hasData": [
+    "N"
+  ],
+  "hasReferences": [
+    "Y"
+  ],
+  "hasTextMinedTerms": [
+    "Y"
+  ],
+  "hasDbCrossReferences": [
+    "N"
+  ],
+  "hasLabsLinks": [
+    "N"
+  ],
+  "license": [
+    "cc by"
+  ],
+  "authMan": [
+    "N"
+  ],
+  "epmcAuthMan": [
+    "N"
+  ],
+  "nihAuthMan": [
+    "N"
+  ],
+  "hasTMAccessionNumbers": [
+    "N"
+  ],
+  "dateOfCompletion": [
+    "2014-03-10"
+  ],
+  "dateOfCreation": [
+    "2014-01-07"
+  ],
+  "firstIndexDate": [
+    "2014-01-11"
+  ],
+  "fullTextReceivedDate": [
+    "2014-01-05"
+  ],
+  "dateOfRevision": [
+    "2020-09-28"
+  ],
+  "electronicPublicationDate": [
+    "2013-12-23"
+  ],
+  "firstPublicationDate": [
+    "2013-12-23"
+  ]
+}
