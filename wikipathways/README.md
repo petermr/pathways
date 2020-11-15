@@ -13,7 +13,22 @@ I assess these on desirability, semantic support, theoretical ease of extraction
 After talking with Alex Pico it seems clear that the raw images are not translated automatically into pathways. Several related images are abstracted into a generic pathway, often requiring cell biological semantics. I shall stick with the more molecularly based pathways such as biochemistry.
 
 ## examples
+### EGF biochemical pathway **
 [PMC2259313](PMC2259313/README.md)
+### AKT caspase apoptosis **
+[PMC2885101](PMC2885101/README.md)
+### mindless use of networks
+[PMC2966327](PMC2966327/README.md)
+### MAPK pathway **
+[PMC3683050](PMC3683050/README.md)
+### neurodegeneration *
+[PMC3794211](PMC3794211/README.md)
+### amyloidogenic
+[PMC3870290](PMC3870290/README.md)
+### retinol *
+[PMC4449696](PMC4449696/README.md)
+### cancer cell migration
+[PMC4503950](PMC4503950/README.md)
 
 ## structure and naming
 
