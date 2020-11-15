@@ -13,6 +13,8 @@ high
 high
 
 
-
 ## technical quality
 low: antialiasing, small fonts, colours badly grey, small blurred
+
+## score/10
+6
