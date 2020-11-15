@@ -24,7 +24,7 @@ PMC2885101/                          # PMC id
 ├── fulltext.pdf                     # PDF
 ├── fulltext.xml                     # text as JATS-XML (no figures or suppdata)
 └── pdfimages
-    └── image.6.1.91_505.177_737.    # image page.serial.x1_x2.y1_y2
+    └── image.6.1.91_505.177_737.    # image page.serial.extent(x1_x2.y1_y2) 
         ├── images.html
         ├── octree                   # colour channels (this example has only shades of gray)
         │   ├── binary.png
