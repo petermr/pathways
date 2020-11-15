@@ -12,6 +12,8 @@ I assess these on desirability, semantic support, theoretical ease of extraction
 
 After talking with Alex Pico it seems clear that the raw images are not translated automatically into pathways. Several related images are abstracted into a generic pathway, often requiring cell biological semantics. I shall stick with the more molecularly based pathways such as biochemistry.
 
+## examples
+[PMC2259313](PMC2259313/README.md)
 
 ## structure and naming
 
