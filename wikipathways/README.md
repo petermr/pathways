@@ -1,4 +1,4 @@
-# automatic Extraction of Wikipathaways
+# automatic Extraction of Wikipathways
 
 ## history
 
@@ -43,6 +43,7 @@ PMC2885101/                          # PMC id
         └── raw_o16.png
 ```
 
+each document now has a README.md with my comments
 
 
 
