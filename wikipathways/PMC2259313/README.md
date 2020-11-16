@@ -2,9 +2,9 @@
 
 ## image
 
-<img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/raw.png" style="border:1px solid black;" width="50%"/>
+<img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/raw.png" style="border:3px solid black;" border="2" width="50%"/>
 
-NOTE. This is a vector diagram and could be extracted from SVG. The image on the publisher site is poor
+NOTE. This is a vector diagram and could be extracted from SVG. The PNG image on the publisher site is poor
 
 
 ## pathway value
