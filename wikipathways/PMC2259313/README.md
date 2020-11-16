@@ -1,7 +1,7 @@
 # PMC2259313
 
 ## image
-<kbd><img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/raw.png" /></kbd>
+<kbd><img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/raw.png" width="150%"/></kbd>
 
 NOTE. This is a vector diagram and could be extracted from SVG. The PNG image on the publisher site is poor
 
