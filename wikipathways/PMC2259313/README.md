@@ -2,7 +2,7 @@
 
 ## image
 
-<img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/raw.png"/>
+<img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/raw.png" style="border:1px solid black;" width="50%"/>
 
 NOTE. This is a vector diagram and could be extracted from SVG. The image on the publisher site is poor
 
@@ -27,4 +27,4 @@ low: antialiasing, small fonts, colours badly grey, small blurred
 
 ### 5fd063
 green annotation (numbers) badly antialiased
-<img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/octree/channel.5fd063.png"/>
+<img src="../PMC2259313/pdfimages/image.3.1.00_00.00_00/octree/channel.5fd063.png" style="border:1px solid black;" width="50%"/>
