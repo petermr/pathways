@@ -23,4 +23,4 @@ medium (antialiased)
 
 ###
 green arrows well resolved
-<img src="../PMC4503950/pdfimages/image.13.1.156_396.64_362/octree/channel.189920.png" width="50%" border="thin black"/>
+<img src="../PMC4503950/pdfimages/image.13.1.156_396.64_362/octree/channel.189920.png" width="50%" border="1"/>
