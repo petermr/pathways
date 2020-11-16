@@ -1,7 +1,7 @@
 # PMC
 
 ## image
-<kbd><img src="../PMC4503950/pdfimages/image.13.1.156_396.64_362/raw.png"/></kbd>
+<kbd><img src="../PMC4503950/pdfimages/image.13.1.156_396.64_362/raw.png" width="50%"/></kbd>
 
 
 ## pathway value
@@ -22,4 +22,4 @@ medium (antialiased)
 
 ###
 green arrows well resolved
-<kbd><img src="../PMC4503950/pdfimages/image.13.1.156_396.64_362/octree/channel.189920.png" /></kbd>
+<kbd><img src="../PMC4503950/pdfimages/image.13.1.156_396.64_362/octree/channel.189920.png" width="50%"/></kbd>
